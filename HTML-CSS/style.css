@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color: #042a46;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 15%;
+}
+
+.cabecalho-lista-item{
+    font-size: 150%;
+    display: inline-block;
+    margin: 76px 16px;
+    background-color: #074572;
+    box-shadow: -10px 0px#074572, 10px 0px#074572;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto-sixers{
+    background-image: linear-gradient(#074572, #042a46);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 90px 0;
+}
+
+.div-conteudo{
+    width: 35%;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Texto-imagem{
+    width: 30%;
+}
+
+.Sixers-título{
+    padding: 24px;
+}
