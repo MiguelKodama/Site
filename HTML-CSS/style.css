@@ -10,6 +10,9 @@
     justify-content: space-around;
     padding: 24px 0;
 }
+body{
+    font-family: 'Nunito', sans-serif;
+}
 
 .cabecalho-imagem{
     width: 15%;
@@ -45,4 +48,12 @@
 
 .Sixers-título{
     padding: 24px;
+}
+
+.jogador-icone{
+    width: 24px
+}
+
+.jogadores-div{
+    
 }
