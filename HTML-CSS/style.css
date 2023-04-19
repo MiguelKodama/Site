@@ -46,14 +46,59 @@ body{
     width: 30%;
 }
 
+.elenco{
+    background-color: #eeeeee;
+}
+
 .Sixers-título{
-    padding: 24px;
+    padding: 24px 0px;
 }
 
 .jogador-icone{
     width: 24px
 }
 
-.jogadores-div{
-    
+.jogador-elenco{
+    width: 120px
+}
+
+.jogador-div1{
+    text-align: center;    
+}
+
+.jogador-div2{
+    text-align: center;    
+}
+
+.jogador-div3{
+    text-align: center;    
+}
+
+.jogador-div4{
+    text-align: center;    
+}
+
+.jogador-div5{
+    text-align: center;    
+}
+
+.elenco-titulo{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.elenco-todos{
+    display: grid;
+    grid-template-columns: 5% 18% 18% 18% 18% 18% 5%;
+}
+
+.rodape{
+    background-color: #042a46;
+    display: flex;
+    justify-content:space-around;
+}
+
+.logo-rodape{
+    width: 220px;
+    padding: 24px 0;
 }
